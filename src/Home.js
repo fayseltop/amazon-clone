@@ -13,7 +13,7 @@ function Home() {
 					<Product
 						id="12321341"
 						title="LEGO Creator Mighty Dinosaur Toy 31058, 3 in 1 Model, T. rex, Triceratops and Pterodactyl Dinosaur Figures, Gifts for 7-12 Year Old Boys & Girls"
-						price={114.96}
+						price={71}
 						rating={0}
 						image="https://m.media-amazon.com/images/I/8153mG+qVgL._AC_SX425_.jpg"
 					/>
